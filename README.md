@@ -46,9 +46,9 @@ go run .
 
 ### (Optional) Compile `.proto` file manually
 
-#### Coming soon! gRPC is kinda *"spain without the s"* to set up, so as the tutorial.
+Coming soon! gRPC is kinda *"spain without the s"* to set up, so as the tutorial.
 
-#### If you want to use the `.proto` file in other programming languages (let's say, building your own gRPC client to fetch the Hoshimachi server), read https://protobuf.dev/reference/other/
+If you want to use the `.proto` file in other programming languages (let's say, building your own gRPC client to fetch the Hoshimachi server), read https://protobuf.dev/reference/other/
 
 
 
