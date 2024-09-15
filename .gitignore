@@ -1,0 +1,5 @@
+# Ignore client folder
+/client
+
+# Ignore binary files
+*.exe
