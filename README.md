@@ -10,36 +10,36 @@
 
 ## How to use
 ### Method 1: Using <a href="https://github.com/finestelongit/hoshiyomi">Hoshiyomi</a> (recommended)
-#### See the documentation of Hoshiyomi for further explanation.
+See the documentation of Hoshiyomi for further explanation.
 
 ### Method 2: Using Postman
-#### Maybe you want to view <a href="https://learning.postman.com/docs/sending-requests/grpc/grpc-client-overview/">this</a> link? :o
+Maybe you want to view <a href="https://learning.postman.com/docs/sending-requests/grpc/grpc-client-overview/">this</a> link? :o
 
 ### Method 3: Build your own gRPC client
-#### I'm assuming that you know the drill. So, just download the `.proto` file, and use it to build the gRPC client! ^o^
+I'm assuming that you know the drill. So, just download the `.proto` file, and use it to build the gRPC client! ^o^
 
-#### I'll recommend to use Hoshiyomi instead as your starting point!
+I'll recommend to use Hoshiyomi instead as your starting point!
 
 ## Setup 
 
 ### Normal setup
 
-### Clone the repository 📃
+#### Clone the repository 📃
 ```bash
 git clone https://github.com/finestelongit/hoshimachi
 ```
 
-### Build to make the binary file ⚒️
+#### Build to make the binary file ⚒️
 ```bash
 go build
 ```
 
-### And, run the program 📦
+#### And, run the program 📦
 ```bash
 ./hoshimachi
 ```
 
-### Or, directly run the program 📦
+#### Or, directly run the program 📦
 ```bash
 go run .
 ```
