@@ -1,6 +1,6 @@
 # Hoshimachi
 
-## 💜🔗🌼 ✩°｡ An experimental, Suisei-themed gRPC server, made with Go 💙
+## ✩°｡ An experimental, Suisei-themed gRPC server, made with Go 💙
 
 ![Hoshimachi Suisei](/docs/hoshimachi-cover.png)
 
